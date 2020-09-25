@@ -3,7 +3,7 @@ A repo for information on and for the development of theory of normalizing flows
 
 ## Information
 ### General Theory
-* Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/pdf/1908.09257.pdf)
+* [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/pdf/1908.09257.pdf)
 * [Density Estimation by Dual Ascent of the Log-Likelihood](https://math.nyu.edu/faculty/tabak/publications/CMSV8-1-10.pdf)
 * [A Family of Non-Parametric Density Estimation Algorithms](https://math.nyu.edu/faculty/tabak/publications/Tabak-Turner.pdf)
 * [Clustering and Classification Through Normalizing Flows in Feature Space](https://math.nyu.edu/faculty/tabak/publications/ClANDCl.pdf)
