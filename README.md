@@ -3,6 +3,8 @@ A repo for information on and for the development of theory of normalizing flows
 
 ## Information
 
+
+
 ### Explicit Mapping
 * [A family of non-parametric density estimation algorithms](https://math.nyu.edu/faculty/tabak/publications/Tabak-Turner.pdf)
 
@@ -10,14 +12,12 @@ A repo for information on and for the development of theory of normalizing flows
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367)
 
-
 ### Neural Network Mapping
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
-
+* [Variational Mixture of Normalizing Flows](https://arxiv.org/abs/2009.00585) - I like the clear language in this paper 
 
 ### Optimal Transport
 * [How to train your Neural ODE: the world of Jacobian and kinetic regularization](https://arxiv.org/abs/2002.02798)
-
 
 ### Neural ODEs - aspects aside from normalizing flows
 * [On Robustness of Neural Ordinary Differential Equations](https://arxiv.org/abs/1910.05513)
@@ -29,9 +29,6 @@ A repo for information on and for the development of theory of normalizing flows
 <br/>
 
 
-
-
-* [Variational Mixture of Normalizing Flows](https://arxiv.org/abs/2009.00585)
 * [Lossy Image Compression with Normalizing Flows](https://arxiv.org/abs/2008.10486)
 * [Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](https://arxiv.org/abs/2008.12577)
 * [Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/abs/2006.06663)
