@@ -2,11 +2,10 @@
 A repo for information on and for the development of theory of normalizing flows in neural odes.
 
 ## Information
-
-
-
-### Explicit Mapping
+### Early Pre-Neural Work
+* [DENSITY ESTIMATION BY DUAL ASCENT OF THE LOG-LIKELIHOOD](https://math.nyu.edu/faculty/tabak/publications/CMSV8-1-10.pdf)
 * [A family of non-parametric density estimation algorithms](https://math.nyu.edu/faculty/tabak/publications/Tabak-Turner.pdf)
+* [CLUSTERING AND CLASSIFICATION THROUGH NORMALIZING FLOWS IN FEATURE SPACE](https://math.nyu.edu/faculty/tabak/publications/ClANDCl.pdf)
 
 ### Neural ODE Mapping
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
@@ -41,5 +40,6 @@ A repo for information on and for the development of theory of normalizing flows
 * [You say Normalizing Flows I see Bayesian Networks](https://arxiv.org/abs/2006.00866)
 * [Neural Control Variates](https://arxiv.org/abs/2006.01524)
 * [The Expressive Power of a Class of Normalizing Flow Models](https://arxiv.org/abs/2006.00392)
+
 
 
