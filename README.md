@@ -10,7 +10,7 @@ A repo for information on and for the development of theory of normalizing flows
 
 ### Neural Network Mapping
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
-* [Variational Mixture of Normalizing Flows](https://arxiv.org/abs/2009.00585) - I like the clear language in this paper
+* [Variational Mixture of Normalizing Flows](https://arxiv.org/abs/2009.00585)
 * [Neural Control Variates](https://arxiv.org/abs/2006.01524)
 
 ### Neural ODE Related
