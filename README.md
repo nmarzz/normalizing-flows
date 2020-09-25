@@ -44,7 +44,7 @@ A repo for information on and for the development of theory of normalizing flows
     * [Github](https://github.com/DanieleGammelli/recurrent-flow-nets)
 * [WaveNODE: A Continuous Normalizing Flow for Speech Synthesis](https://arxiv.org/abs/2006.04598)
    * [Github](https://github.com/ANLGBOY/WaveNODE/)    
-* [Uncertainty quantification in medical image segmentation with normalizing flows](https://arxiv.org/abs/2006.02683)  
+* [Uncertainty Quantification in Medical Image Segmentation With Normalizing Flows](https://arxiv.org/abs/2006.02683)  
 
 
 
