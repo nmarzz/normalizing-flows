@@ -40,7 +40,7 @@ A repo for information on and for the development of theory of normalizing flows
 * [Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](https://arxiv.org/abs/2008.12577)
 * [Probabilistic Auto-Encoder](https://arxiv.org/abs/2006.05479)
 * [Recurrent Flow Networks: A Recurrent Latent Variable Model for Spatio-Temporal Density Modelling](https://arxiv.org/abs/2006.05256)
-    * [Github]((https://arxiv.org/abs/2006.05256)
+    * [Github](https://github.com/DanieleGammelli/recurrent-flow-nets)
 * [WaveNODE: A Continuous Normalizing Flow for Speech Synthesis](https://arxiv.org/abs/2006.04598)
    * [Github](https://github.com/ANLGBOY/WaveNODE/)    
 * [Uncertainty quantification in medical image segmentation with normalizing flows](https://arxiv.org/abs/2006.02683)  
