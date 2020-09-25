@@ -3,9 +3,9 @@ A repo for information on and for the development of theory of normalizing flows
 
 ## Information
 ### Early Pre-Neural Work
-* [DENSITY ESTIMATION BY DUAL ASCENT OF THE LOG-LIKELIHOOD](https://math.nyu.edu/faculty/tabak/publications/CMSV8-1-10.pdf)
+* [Density Estimation by Dual Ascent of the Log-Likelihood](https://math.nyu.edu/faculty/tabak/publications/CMSV8-1-10.pdf)
 * [A family of non-parametric density estimation algorithms](https://math.nyu.edu/faculty/tabak/publications/Tabak-Turner.pdf)
-* [CLUSTERING AND CLASSIFICATION THROUGH NORMALIZING FLOWS IN FEATURE SPACE](https://math.nyu.edu/faculty/tabak/publications/ClANDCl.pdf)
+* [Clustering and Classification Through Normalizing Flows in Feature Space](https://math.nyu.edu/faculty/tabak/publications/ClANDCl.pdf)
 
 ### Neural ODE Mapping
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
