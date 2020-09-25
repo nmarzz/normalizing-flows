@@ -7,6 +7,7 @@ A repo for information on and for the development of theory of normalizing flows
 * [A Family of Non-Parametric Density Estimation Algorithms](https://math.nyu.edu/faculty/tabak/publications/Tabak-Turner.pdf)
 * [Clustering and Classification Through Normalizing Flows in Feature Space](https://math.nyu.edu/faculty/tabak/publications/ClANDCl.pdf)
 * [The Expressive Power of a Class of Normalizing Flow Models](https://arxiv.org/abs/2006.00392)
+* [Do Deep Generative Models Know What They Don’t Know?](https://arxiv.org/pdf/1810.09136.pdf)
 
 ### Neural Network Mapping
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
