@@ -10,6 +10,7 @@ A repo for information on and for the development of theory of normalizing flows
 ### Neural ODE Mapping
 * [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 * [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367)
+    * [Github](https://github.com/rtqichen/ffjord)
 
 ### Neural Network Mapping
 * [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770)
@@ -17,7 +18,7 @@ A repo for information on and for the development of theory of normalizing flows
 
 ### Optimal Transport
 * [How to train your Neural ODE: the world of Jacobian and kinetic regularization](https://arxiv.org/abs/2002.02798)
-
+    * [Github](https://github.com/cfinlay/ffjord-rnode)
 ### Neural ODEs - aspects aside from normalizing flows
 * [On Robustness of Neural Ordinary Differential Equations](https://arxiv.org/abs/1910.05513)
 * [On the Robustness to Adversarial Examples of Neural ODE Image Classifiers](https://www.researchgate.net/publication/337947002_On_the_Robustness_to_Adversarial_Examples_of_Neural_ODE_Image_Classifiers)
