@@ -27,7 +27,7 @@ A repo for information on and for the development of theory of normalizing flows
 <br/>
 <br/>
 
-
+### Unsorted
 * [Lossy Image Compression with Normalizing Flows](https://arxiv.org/abs/2008.10486)
 * [Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](https://arxiv.org/abs/2008.12577)
 * [Neural Ordinary Differential Equations on Manifolds](https://arxiv.org/abs/2006.06663)
