@@ -38,6 +38,9 @@ A repo for information on and for the development of theory of normalizing flows
 * [You say Normalizing Flows I see Bayesian Networks](https://arxiv.org/abs/2006.00866)
 
 ### Applied
+* [Universal audio synthesizer control with normalizing flows](https://arxiv.org/pdf/1907.00971.pdf)
+   * [Github](https://github.com/acids-ircam/flow_synthesizer)
+   * [Webpage](https://acids-ircam.github.io/flow_synthesizer/#parameters-inference)      
 * [Lossy Image Compression with Normalizing Flows](https://arxiv.org/abs/2008.10486)
 * [Same Same But DifferNet: Semi-Supervised Defect Detection with Normalizing Flows](https://arxiv.org/abs/2008.12577)
 * [Probabilistic Auto-Encoder](https://arxiv.org/abs/2006.05479)
